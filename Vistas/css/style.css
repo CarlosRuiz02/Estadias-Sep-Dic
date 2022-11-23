@@ -1,0 +1,84 @@
+#logo-redes{
+	padding: 10px 0;
+}
+
+#logo-redes .logotam {
+    margin: 10px 0;
+    max-height: 90px;
+}
+
+#logo-redes .titulo-sitio {
+	display: none;
+}
+
+#logo-redes #redes-sociales {
+    height: 120px;
+    line-height: 120px;
+}
+
+#logo-redes #redes-sociales li {
+    height: 120px;
+    background: none;
+}
+
+#logo-redes #redes-sociales a {
+    color: #808285;
+    background: none;
+    font-size: 1.5em;
+    width: 30px;
+    display: block;
+    text-align: center;
+}
+
+#logo-redes #redes-sociales i {
+
+}
+
+#logo-redes #buscador form {
+    height: 120px;
+    line-height: 120px;
+}
+
+#logo-redes .form-buscador .form-control {
+    display: inline-block;
+    background: #fbfbfb;
+    border: 1px solid #dbdbdb;
+    border-radius: 10px;
+    visibility: visible;
+}
+
+.menu-secretarias {
+    background: #ab0033;
+    height: 60px;
+}
+
+form{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.margenes{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+  .navbar .nav-item:not(:last-child) {
+    margin-right: 20px;
+  }
+
+  .dropdown:hover>.dropdown-menu{
+    display: block;
+  }
+  
+  .dropdown-toggle::after {
+     transition: transform 0.15s linear; 
+  }
+  
+  .show.dropdown .dropdown-toggle::after {
+    transform: translateY(3px);
+  }
+  
+  .dropdown-menu {
+    margin-top: 0;
+  }
